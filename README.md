@@ -1,6 +1,6 @@
 # Python-Data-Structures-
 
-##Linked List
-##Trees
-##Graphs
-##Sorting Techniques
+## Linked List
+## Trees
+## Graphs
+## Sorting Techniques
